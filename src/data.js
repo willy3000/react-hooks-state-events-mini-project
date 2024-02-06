@@ -1,6 +1,6 @@
 export const CATEGORIES = ["All", "Code", "Food", "Money", "Misc"];
 
-export const TASKS = [
+export let TASKS = [
   {
     text: "Buy rice",
     category: "Food",
